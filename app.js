@@ -8,4 +8,5 @@ frutas.unshift("Uva")
 
 frutas.shift()
 
+frutas.length
 console.log(frutas)
