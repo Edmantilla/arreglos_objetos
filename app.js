@@ -1,5 +1,7 @@
 let frutas =["manzana","pera","banano"]
 
-console.log(frutas)
-
 frutas.push("Mango")
+
+frutas.pop()
+
+console.log(frutas)
