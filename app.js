@@ -6,4 +6,6 @@ frutas.pop()
 
 frutas.unshift("Uva")
 
+frutas.shift()
+
 console.log(frutas)
